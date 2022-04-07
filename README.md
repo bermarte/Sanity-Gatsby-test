@@ -36,13 +36,27 @@ How do Sanity and Gatby work together
 - in `sanity.json` change the `projectId`  
 - `npm install -g @sanity/cli`   
 - `cd backend`   
-- `npm run start`  
+- `npm run start` 
+ 
+You can view your content Studio compiled in the browser.    
+⠀   
+http://localhost:3333   
+⠀   
 
 ### frontend
-In `gatsby-config.js` use the `projectId` of Sanity   
+In `gatsby-config.js` use the `projectId` of Sanity  
+- `cd ..` 
 - `nvm use`
 - `cd frontend`
 - `npm run develop`
+
+You can now view gatsby-starter-default in the browser.    
+⠀   
+  http://localhost:8000/   
+⠀   
+View GraphiQL, an in-browser IDE, to explore your site's data and schema.   
+⠀   
+  http://localhost:8000/___graphql    
 
 ## Code Examples
 
