@@ -42,7 +42,7 @@ How do Sanity and Gatby work together
 In `gatsby-config.js` use the `projectId` of Sanity   
 - `nvm use`
 - `cd frontend`
-- - `npm run develop`
+- `npm run develop`
 
 ## Code Examples
 
