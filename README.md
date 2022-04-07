@@ -1,6 +1,6 @@
 # Sanity-Gatsby-test
 
-A project made to learn the basics of Sanity and Gatsby. I followed this tutorial [Learn With Jason](https://www.youtube.com/watch?v=SLGkyodumKI&t=1739s).
+A project made to learn the basics of Sanity and Gatsby. I followed the tutorial of [Learn With Jason](https://www.youtube.com/watch?v=SLGkyodumKI&t=1739s).
 Check out https://www.sanity.io/ and https://www.gatsbyjs.com/ for more information.
 
 ## Table of contents
